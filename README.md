@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 
 I thrive on the knowledge of my peers and am eager to learn new concepts every day. I embrace challenges and strive to utilise my resources effectively to propose innovative solutions. Throughout my career, I have participated in numerous projects, employing software development life cycle methodologies such as Agile to develop creative software solutions within an object-oriented environment.
 
-The software industry is advancing at an exponential rate, with new technologies emerging every year. I am committed to being a part of this evolution. With proven expertise in the software development life cycle—including project planning, coding, testing, debugging, evaluation, and maintenance—I am dedicated to contributing to and growing with this dynamic field.
+The software industry is advancing at an exponential rate, with new technologies emerging every year. I am committed to being a part of this evolution. With proven expertise in the software development life cycle — including project planning, coding, testing, debugging, evaluation, and maintenance — I am dedicated to contributing to and growing with this dynamic field.
 
 ## About Me
 
