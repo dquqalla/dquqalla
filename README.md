@@ -2,20 +2,20 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dquqalla&color=blueviolet)
 
-Welcome to my GitHub profile! I'm a passionate solutions architect with a love for coding, learning, and sharing knowledge.
+Welcome to my GitHub! I'm a Solutions Architect who loves building robust systems, solving complex puzzles, and learning out in the open.
 
-I thrive on the knowledge of my peers and am eager to learn new concepts every day. I embrace challenges and strive to utilise my resources effectively to propose innovative solutions. Throughout my career, I have participated in numerous projects, employing software development life cycle methodologies such as Agile to develop creative software solutions within an object-oriented environment.
+Instead of just writing code, I care about the big picture—how systems fit together, how teams collaborate, and how to build software that actually solves real-world problems. I'm a big believer in agile thinking, keeping things adaptable, and learning from the talented people around me.
 
-The software industry is advancing at an exponential rate, with new technologies emerging every year. I am committed to being a part of this evolution. With proven expertise in the software development life cycle — including project planning, coding, testing, debugging, evaluation, and maintenance — I am dedicated to contributing to and growing with this dynamic field.
+Tech moves fast, and I genuinely enjoy the challenge of keeping up. Whether I'm sketching out a new architecture, diving into the trenches to debug a tricky issue, or picking up a new framework, I'm always looking for ways to grow and share what I've learned along the way.
 
-## About Me
+## 🚀 About Me
 
-- 💻 I'm a Solutions Architect at Simplestream.
-- 🎓 I hold a BSc degree (first-class honours) in Computer Science from Goldsmiths, University of London.
-- 📫 How to reach me: [dardan@quqalla.co.uk](mailto:dardan@quqalla.co.uk)
-- ⚡ Fun fact: I love football (big Manchester United fan!) 🔴
+- 💻 Currently architecting solutions at **Simplestream**.
+- 🎓 Proud **Goldsmiths, University of London** grad (BSc Computer Science, First-Class Honours).
+- 🌱 Right now, I'm probably exploring new system design patterns or refining my tech stack.
+- ⚡ **Fun fact:** When I'm not looking at a screen, I'm usually stressing over football—massive Manchester United fan! 🔴⚽
 
-## 🛠️ Technologies & Tools
+## 🛠️ My Toolbox
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,7 +29,9 @@ The software industry is advancing at an exponential rate, with new technologies
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
 
-## 📫 Connect with Me
+## 📫 Let's Connect!
+
+Whether you want to talk tech, system architecture, or how United played this weekend, feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dquqalla/)
 [![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=white)](mailto:dardan@quqalla.co.uk)
