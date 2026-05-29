@@ -10,7 +10,7 @@ The software industry is advancing at an exponential rate, with new technologies
 
 ## About Me
 
-- 💻 I'm a Solutions Engineer at Chartboost.
+- 💻 I'm a Solutions Architect at Simplestream.
 - 🎓 I hold a BSc degree (first-class honours) in Computer Science from Goldsmiths, University of London.
 - 🌱 I’m currently diving into the world of adtech, particularly in mobile gaming! 🎮
 - 📫 How to reach me: [dardan@quqalla.co.uk](mailto:dardan@quqalla.co.uk)
