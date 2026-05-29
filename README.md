@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dquqalla&color=blueviolet)
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding, learning, and sharing knowledge.
+Welcome to my GitHub profile! I'm a passionate solutions architect with a love for coding, learning, and sharing knowledge.
 
 I thrive on the knowledge of my peers and am eager to learn new concepts every day. I embrace challenges and strive to utilise my resources effectively to propose innovative solutions. Throughout my career, I have participated in numerous projects, employing software development life cycle methodologies such as Agile to develop creative software solutions within an object-oriented environment.
 
@@ -29,12 +29,6 @@ The software industry is advancing at an exponential rate, with new technologies
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
-
-## 🔥 My Stats
-
-![Dardan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dquqalla&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dquqalla&layout=compact&hide_border=true&theme=radical)
 
 ## 📫 Connect with Me
 
